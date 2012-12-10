@@ -54,3 +54,13 @@ rm -rf %{buildroot}
 %{_bindir}/ubsha1sum
 %{_bindir}/ubripemd160sum
 
+
+
+%changelog
+* Mon Sep 26 2011 Oden Eriksson <oeriksson@mandriva.com> 0.9.5-1mdv2012.0
++ Revision: 701268
+- import md5sha1sum
+
+
+* Mon Sep 26 2011 Oden Eriksson <oeriksson@mandriva.com> 0.9.5-1mdv2010.2
+- initial Mandriva package
