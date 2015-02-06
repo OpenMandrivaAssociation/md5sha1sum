@@ -1,7 +1,7 @@
 Summary:	Microbrew MD5sum/SHA1sum/RIPEMD160sum
 Name:		md5sha1sum
 Version:	0.9.5
-Release:	%mkrel 1
+Release:	2
 License:	GPLv2+
 Group:		System/Base
 URL:		http://www.microbrew.org/tools/md5sha1sum/
