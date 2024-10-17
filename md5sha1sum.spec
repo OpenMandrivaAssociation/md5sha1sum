@@ -4,7 +4,7 @@ Version:	0.9.5
 Release:	3
 License:	GPLv2+
 Group:		System/Base
-URL:		http://www.microbrew.org/tools/md5sha1sum/
+URL:		https://www.microbrew.org/tools/md5sha1sum/
 Source0:	http://www.microbrew.org/tools/md5sha1sum/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(openssl)
 
